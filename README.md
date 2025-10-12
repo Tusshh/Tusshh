@@ -20,7 +20,7 @@ I love transforming ideas into interactive, creative, and scalable web solutions
 🌱 **Currently learning:** <span style="color:#FF6EC7;">Python</span>, <span style="color:#00FFFF;">NumPy</span>, <span style="color:#39FF14;">Pandas</span>, <span style="color:#FF6EC7;">Machine Learning</span>  
 🔭 **Founder of:** [Tush EduHub](https://tusheduhub.vercel.app) – Empowering learners online  
 👯 **Looking to collaborate on:** Web Dev, Open Source & ML projects  
-💬 **Ask me about:** JavaScript, DSA, Python, ML  
+💬 **Ask me about:** JavaScript, DSA, Python, ML, C++  
 💡 **My mantra:** *“Create. Code. Contribute.”*
 
 ---
@@ -50,7 +50,7 @@ I love transforming ideas into interactive, creative, and scalable web solutions
 <div align="center">
 
 **Languages & Libraries**  
-<img src="https://skillicons.dev/icons?i=python,js,java,c,ml,numpy,pandas&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,java,c,ml,numpy,pandas&theme=dark" />
 
 <br><br>
 
