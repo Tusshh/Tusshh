@@ -47,17 +47,22 @@ I love transforming ideas into interactive, creative, and scalable web solutions
 ---
 
 ### 🧰 Tech Stack
+
 <div align="center">
 
 **Languages & Libraries**  
+<br>
 <img src="https://skillicons.dev/icons?i=python,cpp,js,java,c,ml,numpy,pandas&theme=dark" />
 
 <br><br>
 
 **Frameworks & Tools**  
+<br>
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,figma,vscode,git,github&theme=dark" />
 
 </div>
+
+
 
 ---
 
