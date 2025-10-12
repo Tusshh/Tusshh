@@ -3,16 +3,17 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=700&color=FF6EC7,00FFFF,39FF14&center=true&vCenter=true&width=650&lines=Hi,+I'm+Tushar+Kumar+👋;Web+Dev+%26+Open+Source+Contributor+💻;Founder+of+Tush+EduHub+📚;Fueled+by+Creativity+%26+Curiosity+⚡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=700&color=FF6EC7,00FFFF,39FF14&center=true&vCenter=true&width=650&lines=Hi,+I'm+Tushar+Kumar+👋;Web+Dev+%26+Open+Source+Contributor+💻;Founder+of+Tush+EduHub+📚;Fueled+by+Creativity+%26+Curiosity+⚡" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 🧑‍💻 About Me
-<div align="center">
-Hi! I'm <span style="color:#00FFFF; font-weight:bold;">Tushar Kumar</span>, a <b>3rd Year B.Tech IT Student</b> at <span style="color:#39FF14; font-weight:bold;">Haldia Institute of Technology</span>.  
 
-I love transforming ideas into interactive, creative, and scalable web solutions using modern technologies. 🚀
+<div align="center">
+Hi! I'm <span style="color:#00FFFF; font-weight:bold;">Tushar Kumar</span>, a <b>3rd Year B.Tech IT Student</b> at <span style="color:#39FF14; font-weight:bold;">Haldia Institute of Technology</span>.
+
+I'm passionate about transforming ideas into interactive, creative, and scalable solutions using modern technologies. 🚀
 </div>
 
 ---
@@ -26,6 +27,7 @@ I love transforming ideas into interactive, creative, and scalable web solutions
 ---
 
 ### 🏆 Achievements & Badges
+
 <div align="center">
 **Hacktoberfest '25 Badges**  
 [![Holopin badges](https://holopin.me/tusshh?theme=dark)](https://holopin.io/@tusshh)
@@ -62,18 +64,10 @@ I love transforming ideas into interactive, creative, and scalable web solutions
 
 </div>
 
-
-
----
-
-### 📂 Highlighted Projects
-- 💻 [Tush EduHub](https://tusheduhub.vercel.app) – Interactive coding learning platform  
-- 🌐 [Website Vulnerability Tester](#) – Node.js project (in progress)  
-- 🔥 Open Source Contributions – CSS Art Museum, GrowCraft, and more
-
 ---
 
 ### 📈 GitHub Stats
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Tusshh&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=FF6EC7&icon_color=00FFFF&text_color=39FF14" alt="GitHub Stats" />
 <br><br>
@@ -83,11 +77,13 @@ I love transforming ideas into interactive, creative, and scalable web solutions
 ---
 
 ### ⚡ Fun Fact
+
 > "I turn coffee ☕ into code and ideas into reality 💡"
 
 ---
 
 ### 📫 Connect With Me
+
 <div align="center">
 <a href="https://www.linkedin.com/in/tushar-kumar-8a7117257" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Tushar%20Kumar-FF6EC7?style=for-the-badge&logo=linkedin&logoColor=00FFFF" alt="LinkedIn" />
