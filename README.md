@@ -30,15 +30,15 @@ I'm passionate about transforming ideas into interactive, creative, and scalable
 
 <div align="center">
 **Hacktoberfest '25 Badges**  
-[![An image of @tusshh'Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tusshh)](https://holopin.io/@tusshh)
-
-
-<br>
-
-**GitHub Trophies**  
-<img src="https://holopin.me/tusshh)](https://holopin.io/@tusshh&theme=radical&no-frame=true&margin-w=15&column=4" alt="GitHub Trophies" />
+### 🪴 Holopin Badges  
+  <br>
+[![Holopin Badges](https://holopin.me/tusshh)](https://holopin.io/@tusshh)
 
 <br>
+
+### 🏆 GitHub Trophies  
+<img src="https://github-profile-trophy.vercel.app/?username=tusshh&theme=radical&no-frame=true&margin-w=15&column=4" alt="GitHub Trophies" />
+
 
 **Badges**  
 <img src="https://img.shields.io/badge/Top%20Committer-50%2B-ff6ec7?style=for-the-badge&logo=github&logoColor=00FFFF" alt="Top Committer" />
