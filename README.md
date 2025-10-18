@@ -35,7 +35,7 @@ I'm passionate about transforming ideas into interactive, creative, and scalable
 <br>
 
 **GitHub Trophies**  
-<img src="[https://github-profile-trophy.vercel.app/?username=Tusshh](https://holopin.me/tusshh)](https://holopin.io/@tusshh)&theme=radical&no-frame=true&margin-w=15&column=4" alt="GitHub Trophies" />
+<img src="https://holopin.me/tusshh)](https://holopin.io/@tusshh&theme=radical&no-frame=true&margin-w=15&column=4" alt="GitHub Trophies" />
 
 <br>
 
