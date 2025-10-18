@@ -30,7 +30,8 @@ I'm passionate about transforming ideas into interactive, creative, and scalable
 
 <div align="center">
 **Hacktoberfest '25 Badges**  
-[![Holopin badges](https://holopin.me/tusshh?theme=dark)](https://holopin.io/@tusshh)
+[![An image of @tusshh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tusshh)](https://holopin.io/@tusshh)
+
 
 <br>
 
