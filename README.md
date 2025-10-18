@@ -28,8 +28,6 @@ I'm passionate about transforming ideas into interactive, creative, and scalable
 
 ### 🏆 Achievements & Badges
 
-### 🏆 Achievements & Badges
-
 <div align="center">
 
 **🌳 Hacktoberfest '25 Badges**
